@@ -1,0 +1,31 @@
+{
+    "full_name": "Priya S",
+    "primary_email": "priya@gmail.com",
+    "primary_phone": "9988776655",
+    "skills": [
+        {
+            "name": "Sql",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        },
+        {
+            "name": "Excel",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        },
+        {
+            "name": "Power Bi",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        }
+    ],
+    "experience": 1,
+    "overall_confidence": 1.0,
+    "provenance": {}
+}

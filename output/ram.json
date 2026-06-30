@@ -1,0 +1,31 @@
+{
+    "full_name": "Ram Kumar",
+    "primary_email": "ram@gmail.com",
+    "primary_phone": "9123456789",
+    "skills": [
+        {
+            "name": "Java",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        },
+        {
+            "name": "Python",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        },
+        {
+            "name": "Machine Learning",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        }
+    ],
+    "experience": 3,
+    "overall_confidence": 1.0,
+    "provenance": {}
+}

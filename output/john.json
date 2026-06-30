@@ -1,0 +1,38 @@
+{
+    "full_name": "John Doe",
+    "primary_email": "john@gmail.com",
+    "primary_phone": "9876543210",
+    "skills": [
+        {
+            "name": "Sql",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        },
+        {
+            "name": "Java",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        },
+        {
+            "name": "Python",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        },
+        {
+            "name": "Aws",
+            "confidence": 0.9,
+            "sources": [
+                "resume"
+            ]
+        }
+    ],
+    "experience": 2,
+    "overall_confidence": 1.0,
+    "provenance": {}
+}
